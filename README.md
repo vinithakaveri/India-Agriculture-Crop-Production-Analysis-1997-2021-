@@ -5,4 +5,3 @@ Dashboard Public Link - https://public.tableau.com/views/IndianAgriculturalCropP
 
 Story Public Link -  https://public.tableau.com/app/profile/vinitha.k.v./viz/InsightsintoIndiasAgriculturalCultivation/Story1
 
-Video Demonstration link - 
